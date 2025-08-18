@@ -1,5 +1,5 @@
 # BACnet-to-BCPBACnet-Converter
-A specialized automation script for converting Niagara stations from standard BACnet protocol implementation to BCPBACnet (BACnet Secure Connect Protocol) configuration.
+A specialized automation script for converting Niagara stations from standard BACnet protocol implementation to BCPBACnet (BACnet Secure Connect Protocol) configuration for Distech Controls devices.
  - Note: This repository showcases the technical approach and capabilities of the converter. The complete implementation includes proprietary algorithms and is available through commercial licensing agreements.
 
   # Overview
