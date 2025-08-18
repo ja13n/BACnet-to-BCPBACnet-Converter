@@ -5,7 +5,7 @@ Step-by-step guide for preparing and executing station conversions.
 
 ## Pre-Conversion Checklist
 - [ ] Verify Niagara station backup (.dist file) availability
-- [ ] Confirm Distech Controllers are present (ECB/ECC/ECY/S-100 series)
+- [ ] Confirm Distech Controllers are present (ECB//ECY series)
 - [ ] Ensure BCPBACnet licensing is in place
 - [ ] Create additional backup of original .dist file
 
