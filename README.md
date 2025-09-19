@@ -15,6 +15,7 @@ A specialized automation script for converting Niagara stations from standard BA
    - Automated station backup processing: Direct manipulation of Niagara station backup files.
    - Archive Integrity: Maintains original station structure while updating internal configurations.
    - Backup Safety: Creates restoration points and handles conversion failures gracefully without corrupting the backup.
+   - Edits PX ffiles to incorporate BCPBACnet points.
 
   # Technical Architecture
    - Device Detection: Identifies BACnet devices using pattern matching to find controller names on the network.
@@ -24,8 +25,3 @@ A specialized automation script for converting Niagara stations from standard BA
    - Average Conversion Time: 3 - 7 minutes per station (depending on size and complexity).
    - Success Rate: 98.5% for standard configurations.
    - Object Preservation: 100% data integrity maintained.
-
-  # Future Enhancements
-   - Batch Processing: Multiple station conversion in single operation.
-   - Cloud Integration: Remote conversion management dashboard.
-   - AI-Powered Optimization: Machine Learning for configuration tuning.
