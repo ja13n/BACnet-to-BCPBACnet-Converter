@@ -15,7 +15,7 @@ A specialized automation script for converting Niagara stations from standard BA
    - Automated station backup processing: Direct manipulation of Niagara station backup files.
    - Archive Integrity: Maintains original station structure while updating internal configurations.
    - Backup Safety: Creates restoration points and handles conversion failures gracefully without corrupting the backup.
-   - Edits PX ffiles to incorporate BCPBACnet points.
+   - Edits PX files to incorporate BCPBACnet points.
 
   # Technical Architecture
    - Device Detection: Identifies BACnet devices using pattern matching to find controller names on the network.
